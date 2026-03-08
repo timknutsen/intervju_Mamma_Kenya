@@ -56,15 +56,20 @@ Always state which layer you are working on: transcript, story, research/context
 ## Transcript rules
 The cleaned full interview transcript is the most important artifact in this repository.
 
-- Aim for faithful-but-readable cleanup.
+- Aim for preservation-first cleanup, not neat summarization.
 - Preserve speaker order, sequence, uncertainty, tone, and distinctive storytelling voice.
-- Fix obvious ASR errors and remove only distracting filler or repetition.
-- Do not silently invent missing words, chronology, names, or historical claims.
-- Mark uncertain passages explicitly for later review with your mother.
+- Preserve psychology, family dynamics, revealing side remarks, humor, contradiction, and vivid anecdotes.
+- Preserve colonial and social atmosphere, everyday routines, labor structures, travel details, and domestic texture.
+- Fix obvious ASR errors and remove filler only when it does not carry meaning, rhythm, or character.
+- Do not silently invent missing words, chronology, names, motives, or historical claims.
+- Mark uncertain passages explicitly for later review with your mother using labels such as `[uncertain]`, `[name unclear]`, or `[year uncertain]`.
 - Keep the transcript traceable to the source audio.
 - When possible, preserve timestamps or other links back to the raw recording for difficult passages.
 
-This transcript should read clearly, but it must still feel like the real conversation.
+The goal is a readable but deeply preserved archival transcript, not a polished prose retelling.
+
+- Each master transcript should end with `Preservation notes` and `Verification list`.
+- The Mau Mau side recording should exist as its own standalone transcript artifact and also be linked from the relevant main interview section.
 
 ## Story-writing rules
 Story work begins only after there is a usable cleaned transcript for the relevant section.
@@ -124,7 +129,7 @@ Use descriptive, consistent filenames. Prefer lowercase, hyphen-separated names 
 - `research/thika-colonial-context.md`
 - `assets/historical/media-inventory.md`
 
-Preserve original recording filenames unless there is a strong archival reason to rename them. For Markdown, use short sections, sentence-case headings, concise bullets, and clear separation between transcript text, editorial notes, and research notes.
+Preserve original recording filenames unless there is a strong archival reason to rename them. For Markdown, use short sections, sentence-case headings, concise bullets, and clear separation between transcript text, editorial notes, preservation notes, and verification lists.
 
 ## Verification guidelines
 Because this repository is archival and editorial rather than executable, verification means checking accuracy, traceability, and organization.

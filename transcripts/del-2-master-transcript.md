@@ -2,9 +2,9 @@
 
 - Source audio: `Mamma oppvekst Kenya del 2.m4a`
 - Approximate duration: 61m 26s
-- Machine transcript source: `outputs/Mamma oppvekst Kenya del 2.txt`
-- Status: first cleanup pass complete, audio review pending
-- Cleanup standard: faithful but readable Norwegian transcript based on machine output and audio review
+- Machine transcript sources: `outputs/Mamma oppvekst Kenya del 2.txt`, `.srt`, `.json`
+- Status: preservation-first pass complete, audio review still needed
+- Cleanup standard: faithful edited transcript that preserves scene, anecdote, atmosphere, and uncertainty rather than compressing to neat fact summary
 
 ## Speaker key
 
@@ -13,189 +13,228 @@
 
 ## Transcript
 
-### [00:00] Main interview recording
+### [00:00] Hvor vi bodde
 
 Tim: Da var vi ved mamma sitt liv som barn i Kenya, sånn som hun husker det, fritt fortalt.
 
-Mamma: Da må jeg bare ta enkle ting, enkle ting som jeg kan prate rundt. Kanskje jeg skal si hvor vi bodde. Vi bodde altså i Thika, som er en liten by på utsiden av Nairobi. Det ligger ganske høyt, og det er jo kaffe.
+Mamma: Da må jeg bare ta enkle ting, enkle ting som jeg kan prate rundt. Kanskje jeg skal si hvor vi bodde. Vi bodde altså i Thika, som er en liten by på utsiden av Nairobi. Det ligger ganske høyt. Nairobi ligger også høyt. Og det er jo kaffe.
 
 Tim: Ja, og du har jo vært der.
 
-Mamma: Ja. Det var der min far begynte å jobbe og bestyrte en kaffeplantasje i de årene. Den het Rubishlog, og var eid av noen som het Sutcliffe, som jeg tror var briter.
+Mamma: Ja. Det var der min far begynte å jobbe og bestyrte en kaffeplantasje i de årene. Den het Rubislaw, og var eid av noen som het Sutcliffe, som jeg tror var briter. Rett og slett.
 
-### [03:00] Farmen og den lille landsbyen
+### [02:00] Farmen, isolasjonen og landsbyen
 
-Mamma: Gården lå ganske avsides. Jeg husker livet der som veldig isolert. Sånn var det på mange farmer: et ektepar med barn, og så de ansatte rundt.
+Mamma: Gården lå jo avsides. Det husker du også kanskje? Men jeg husker det som avsides. Sånn at det livet de hadde, det var jo veldig isolert, kan du si, på mange måter.
 
-Mamma: Vi hadde folk i huset, og på farmen var det også en liten landsby. Den husker jeg som slik den ble tegnet i norske barnebøker: stråhus og leirehus. De bygde dem selv på "estate"-en, som vi kalte det.
+Mamma: Sånn var det på alle farmene, at ekteparet var der med barna. Det var bare de to med barn, og så hadde man folk i huset. I hvert fall på Rubislaw var det også en liten landsby. Den husker jeg som noe som lignet de norske barnebøkene: stråhus og leirehus.
 
-Tim: Så det var en egen landsby for arbeiderne?
+Tim: Var det virkelig sånn?
 
-Mamma: Ja, en liten "village". De lagde mat på åpen ild, og det var de som jobbet på plantasjen og plukket kaffe. Særlig kvinnene plukket kaffe, mens noen av mennene hadde andre oppgaver.
+Mamma: Ja. Det var det, ja. De bygde dem selv på "estate"-en. Så de bodde der, i det vi kalte village. Åpen ild, matlaging, og det var de som jobbet på plantasjen og plukket inn kaffe, særlig kvinnene.
 
-Mamma: Her blir den rå maskintranskripsjonen dårlig et stykke, men det vi snakker om er arbeidsdelingen på farmen og hvordan driften foregikk. Dette partiet må sjekkes mot lyd, fordi teksten bryter sammen i mange meningsløse repetisjoner.
+Mamma: Maskintranskripsjonen bryter sammen akkurat her, men JSON-passasjen bekrefter i hvert fall strukturen: ekteparet og barna i hovedhuset, folk i huset, og en egen village på estate-en for dem som jobbet der. Resten av detaljene i arbeidsdelingen må fortsatt sjekkes mot lyd dersom vi vil være mer presise.
 
-### [08:00] Kaffedyrkingen
+### [05:30] Kaffedyrkingen som barndomsminne
 
-Mamma: Nå er vi inne på selve kaffedyrkingen. Når kaffebærene var plukket, ble de kjørt til det vi kalte coffee plant. Der ble de røde bærene helt opp i en stor vannsentrifuge, og skallet ble skilt fra de hvite bønnene.
+Mamma: Nå er vi inne på selve kaffedyrkingen. Når kaffebærene var plukket, ble de kjørt til det vi kalte coffee plant. Der ble alle de røde bærene helt oppi en stor vannsentrifuge, slik at skallet ble skilt fra de to hvite bønnene.
 
-Tim: Skallet gikk en vei, og bønnene en annen?
+Tim: Skallet ut en vei og bønnene en annen?
 
-Mamma: Ja. Skallet kom ut én vei, og de hvite bønnene i vannrenner en annen. Så ble bønnene lagt ut på lange bord med en slags duk eller seilduk og tørket i solen. På filmene ser man afrikanske kvinner som står og vender bønnene med armene.
+Mamma: Ja. Skallet kom ut en vei, og de hvite bønnene kom ut i vannrenner en annen vei. Det var prosessen. Og da ble de hvite bønnene lagt ut på veldig lange bord med en slags seilduk, hvor de ble tørket i sola.
 
-Tim: Drev kenyanerne med kaffeproduksjon før europeerne?
+Mamma: Det er også på en av filmene, hvor de afrikanske kvinnene står og vender bønnene med armene. Så vi har faktisk bilder av dette.
 
-Mamma: Det vet jeg ikke. Ikke med maskiner og hele det opplegget, tror jeg. Men det må vi finne ut av. Det jeg husker, er prosessen på denne farmen.
+Tim: Drev kenyanerne med kaffeproduksjon før dette, eller er det et europeisk system?
 
-Mamma: Vi gikk av og til fra hovedhuset og ned til coffee plant. På veien håpet vi alltid å få se kameleoner. De var så morsomme, for de gikk så sakte og skiftet farge etter omgivelsene.
+Mamma: Det vet jeg ikke. Det er et interessant spørsmål. Jeg tror ikke med maskiner og hele plants-opplegget, det var noe europeerne sto for. Men det må vi finne ut av. Jeg vet bare hvordan jeg husker det på den farmen.
 
-Mamma: Noen ganger fikk vi også lov til å hjelpe til med å vende kaffebønnene som lå til tørk. De var varme av solen. Jeg husker også at Rosemary tok egen kaffe og brente den i komfyren, malte den i kvern og kokte kaffe av den. Det synes jeg var ganske stas.
+Mamma: Grunnen til at jeg husker dette så godt, er jo at vi av og til gikk fra hovedhuset og ned til coffee plant. Det var en del av barndomsverdenen vår. På veien så vi alltid etter kameleoner. Hvis vi fant en i veikanten, var det veldig gøy, fordi de gikk så sent og skiftet farge etter omgivelsene.
 
-### [14:00] Eiere, slanger og billiardrom
+Tim: Så du og Wenche kunne gå og se om den hadde skiftet farge når dere kom tilbake?
+
+Mamma: Ja. Noen ganger flyttet vi den over på noe annet, og så hadde den skiftet farge når vi kom tilbake. Det synes vi var stor stas.
+
+Mamma: Og det andre som gjorde at jeg husker kaffebønnene så godt, var at vi noen ganger fikk lov å hjelpe til med å vende dem. De lå jo i sola og var varme. Det var så godt og varmt.
+
+Tim: Og Rosemary brukte også kaffe fra gården hjemme?
+
+Mamma: Ja. Hun tok jo vår egen kaffe, brente den i komfyren, malte den i kvern og kokte kaffe av den. Det husker jeg. Hun kunne det.
+
+### [12:30] Kontor, regnskap og de som drev anlegget
+
+Mamma: Det var der min far hadde sitt kontor også. Vi var nede hos ham på kontoret og besøkte ham der. Der førte han regnskap, og så var det jo afrikanere som opererte hele anlegget. Det var ikke han som fysisk sto og gjorde alt.
+
+Tim: Så du fikk se både arbeidet og kontor-delen?
+
+Mamma: Ja. Det var en del av den samme verdenen.
+
+### [14:00] Sutcliffe, rikdom og besøkslivet
 
 Tim: Vet du mer om Sutcliffe?
 
-Mamma: Jeg tror Sutcliffe hadde flere plantasjer, med forskjellige bestyrere. De hadde i hvert fall god råd, for av og til reiste vi på besøk til dem, og da ble vi alltid pyntet opp i fine kjoler som mor hadde sydd.
+Mamma: Jeg tror Sutcliffe hadde flere plantasjer, med forskjellige bestyrere. De hadde i hvert fall veldig god råd. Av og til skulle vi på besøk til dem, og da ble vi alltid dresset opp i de fineste kjolene, som hun sydde til oss på den lille Singer-maskinen sin. Vi fikk streng beskjed om å ikke grise oss til og om å oppføre oss.
 
-Mamma: Et annet minne fra kaffen er at Jakob skjøt to pytonslanger i kaffeåkeren. Skinnet ble spent opp på planker og lagt til tørk på billiardbordet, for de hadde et eget billiardrom hvor de spilte billiard om kveldene.
+Tim: Så de var på en måte den øverste koloniale familien i den sammenhengen?
 
-Tim: Så slanger var en del av hverdagen?
+Mamma: Ja, i hvert fall folk med betydelig mer penger og større posisjon.
 
-Mamma: Ja, absolutt. Jakob var veldig opptatt av slanger. Jeg husker spesielt en historie fra huset vårt: Han satt på do med døra åpen, og oppdaget en stor [puff adder?] i det lille rommet innenfor. Da brølte han: "Rosemary, get the children out." Vi måtte ut av huset mens han slo den i hjel.
+### [16:00] Slanger, billiardrom og konstant fare
 
-Mamma: Slangen ble båret ut og lagt på sementen utenfor kjøkkenet. Katten kom bort og så på den, og så hørte vi plutselig at den freste igjen. Den var ikke helt død. Da måtte han ut og ta den en runde til.
+Mamma: Det som også forbinder seg med kaffen, var at Jakob skjøt to pytonslanger i kaffeåkeren. Kaffebuskene var jo ganske høye, så de kunne gå der inne. Og da fikk han folk til å ta slangen tilbake. Skinnet ble spent på lange planker og lagt til tørk på billiardbordet, for de hadde eget billiardrom.
 
-Mamma: Han påsto også at han fant en [mamba?] blant lekene våre på verandaen. Om det var akkurat det, vet jeg ikke, men poenget er at det var en reell fare. Derfor var vi aldri alene.
+Tim: De spilte billiard om kveldene?
 
-### [20:00] Aya, swahili og folkene rundt huset
+Mamma: Ja. Det var jo ikke TV. Så billiard og klubbliv og gjester var en del av kveldsverdenen.
 
-Mamma: Vi hadde alltid en aya, en barnepike, som passet på oss når vi var ute. Hun het [Wanjiko?], og vi snakket "kitchen swahili" med henne. Vi lærte de enkleste ordene, og forstod mye swahili før vi lærte norsk.
+Mamma: Slanger var i det hele tatt et tema hele tiden. Jeg husker spesielt en historie fra huset. Det var et hus i to nivåer, og du måtte ned for å komme på do, og kjøkkenet lå ut derfra på en gårdsplass. Han satt lenge på do med døra åpen, og så oppdaget han en stor puff adder i det lille rommet innenfor.
 
-Tim: Snakket de ansatte engelsk?
+Mamma: Da hørte vi bare ham brøle: "Rosemary, get the children out." Vi måtte ut av huset, kokken og de andre også, og så fikk han tak i et eller annet og slo den i hjel.
 
-Mamma: Svært få. Det gikk mest i swahili mellom min far og folkene. Mor kunne også swahili.
+Mamma: Så bar han den ut og la den på sementen utenfor kjøkkenet. Da kom katten bort og så på den. Så hørte vi fresing, og da var den ikke helt død likevel. Da måtte han ut og ta den en runde til.
 
-Mamma: Vi hadde en kokk som het Charago. Han hadde hvit kokkelue og var visst veldig flink til å lage mat, men han var også stadig på fylla, om man skal tro dagbøkene. Så hadde vi en kitchen boy som het Katschutta, som gjorde alt mulig: vasket bil, pusset gulv og gjorde det praktiske arbeidet.
+Mamma: Han påsto også at han fant en mamba blant lekene våre på verandaen. Men poenget er at dette var en reell del av hverdagen. Det var derfor vi aldri var alene.
 
-Mamma: Kjøkkenet var alltid utenfor hovedhuset, men innenfor piggtråd- og vaktopplegget. Det var vedkomfyr og ikke strøm, så maten ble laget der etter instruks fra Rose. Men om kvelden lagde hun gjerne kveldsmaten til oss selv. Det var ikke alle settlerkvinner som gjorde det.
+### [22:00] Aya, swahili og menneskene rundt barna
 
-### [26:00] Dyr, hage og vakthold
+Mamma: Vi hadde alltid en aya, en barnepike, som passet på oss når vi var ute. Hun het [possibly Wanjiko]. Hun var i nærheten hele tiden når vi lekte.
 
-Mamma: Vi hadde høns innenfor området, og vi spiste dem. Vi fikk også lov til å se på når de ble slaktet. Vi hadde mange kaniner i bur som sto høyt over bakken, så de ikke skulle bli tatt. Dem spiste vi også. Mor lagde rabbit stew.
+Tim: Snakket hun engelsk?
 
-Mamma: Vi hadde to schæfere: Zipp, som var familiehund, og Elsa, som var guard dog. Elsa var mer aggressiv, og vi fikk aldri bli like glad i henne. Vi hadde også katter, Shiba og Fanny.
+Mamma: Nei, swahili. Vi snakket jo mer swahili enn noe annet med henne. Kitchen swahili. De enkleste ordene. Vi forsto henne, og mange av de ansatte kunne ikke så mye engelsk.
 
-Mamma: Rose hadde en flott hage der, med mye blomster. Hun holdt på med blomster og hage hele tiden, og instruerte folk om hva som skulle gjøres.
+Mamma: Min far snakket swahili med dem hele tiden. Sikkert elendig swahili, men han måtte jo lære seg det. Rose kunne også swahili.
 
-Tim: Og Jakob var bevæpnet?
+Mamma: Vi hadde en kokk som het Charago. Han hadde hvit kokkelue og grønt forklé, tror jeg. Han var veldig flink til å lage mat, ble det sagt, og var flink med unger. Vi kunne snakke litt med ham. Men han var også visstnok stadig på fylla. Det står i dagbøkene.
 
-Mamma: Ja. Han gikk alltid bevæpnet og i khaki. Han hadde pistol i beltet hele tiden. Det var bare sånn livet var.
+Mamma: Så hadde de en kitchen boy som het Katschutta. Han var sånn alt mulig. Han måtte vaske bilen, polere gulv, gjøre alt dette praktiske som holdt huset gående.
 
-### [31:00] Nairobi, slekt og julefeiring
+### [27:00] Kjøkken, mat og hva Rosemary gjorde selv
 
-Mamma: Vi var mye i Nairobi også. Vi besøkte Oliver og Cynthia mange ganger. De bodde i en bydel som het Spring Valley. Det gledet vi oss alltid til. Der feiret vi Christmas Day hvert år. Julaften hadde vi hjemme på farmen, norsk julaften, med gaver og tre, for det ville Jakob ha.
+Mamma: Kjøkkenet var alltid på utsiden av hovedhuset, men innenfor piggtråd og sikkerhetsopplegget. Det var vedkomfyr. Det var ikke strøm. Så de lagde all mat der etter instruks fra Rose.
 
-Mamma: Hos Oliver og Cynthia hadde de også juletre med levende lys. En gang tok det fyr, og det måtte kastes ut. Jeg husker også katten deres, Bambo, som kom og la seg ved føttene våre når vi ble lagt i senga deres om kvelden. Chris ble helt imponert da jeg husket den katten.
+Tim: Men hun lagde også noe selv?
 
-Mamma: Mor kjørte oss mye rundt i en DKW, rød med hvitt tak, og hun kjørte fort. Hun kjørte oss til skolen hver dag.
+Mamma: Ja. Om kvelden lagde hun kveldsmaten til oss på en liten egen komfyr inne. Det er egentlig en viktig detalj, for ikke alle settlerkvinner gjorde det. Mange overlot alt til tjenestefolkene. Men hun gjorde en del selv.
 
-### [36:00] Skolen i Thika
+Tim: Hvordan behandlet de folkene sine, egentlig?
+
+Mamma: Det er jo det store spørsmålet. Hun var ikke en militær type, men hun ga jo instrukser. Det var jo et kolonialt system, samme hvordan man snur på det. Men hun var ikke hard i væremåten.
+
+### [30:00] Høns, kaniner, hunder og katter
+
+Mamma: Vi hadde høns innenfor området. Dem spiste vi. Vi fikk lov å se på når de hogg hodet av dem. Min far mente det kunne vi bare se på.
+
+Mamma: Vi hadde også mange kaniner, i bur høyt over bakken så de ikke skulle bli tatt. Dem spiste vi også. Hun lagde rabbit stew. Jeg har spist mye kanin som unge.
+
+Mamma: Vi hadde to hunder, to schæfere. Zipp, som var familiehund, og Elsa, som var guard dog. Elsa var ikke noe vi fikk lov å knytte oss til på samme måte. Hun var trent til vakthund. Og så hadde vi to katter, Shiba og Fanny.
+
+### [33:00] Hage, khaki og sikkerhetsregime
+
+Mamma: Rose hadde jo en flott hage, med mye blomster, som hun holdt på med. Hun var opptatt av gardening og hadde folk som jobbet med det. Det står også i dagbøkene.
+
+Tim: Og Jakob gikk alltid bevæpnet?
+
+Mamma: Ja. Han gikk alltid i khaki og med pistol. Hele pakka. Alltid. Det er jo også det som kommer tilbake i Mau Mau-sidesporet, at den beredskapen var et barndomsminne for meg.
+
+### [35:00] Nairobi, Oliver og Cynthia, jul og den kjøringen
+
+Mamma: Vi var mye i Nairobi. Vi besøkte Oliver og Cynthia mange ganger. De bodde i et strøk som het Spring Valley. Det gledet vi oss alltid til.
+
+Mamma: Vi feiret Christmas Day der. Julaften hadde vi på Rubishlog, norsk julaften, med gaver og tre, for det ville Jakob ha. Hos Oliver og Cynthia hadde de også tre med levende lys. Den tok fyr en gang. Det husker jeg godt.
+
+Mamma: Det jeg også husker derfra, er at vi ble lagt i senga til Oliver og Cynthia om kvelden når vi skulle sove. Og da kom katten deres, Bambo, og la seg ved beina mine. Chris ble helt imponert da jeg husket navnet Bambo etterpå.
+
+Mamma: Mor kjørte oss rundt i en DKW, rød med hvitt tak. Hun kjørte ikke sakte. Hun kjørte fort.
+
+### [39:00] Skole, Miss Foiret og innprentet læring
 
 Tim: Når begynte dere på skolen?
 
-Mamma: Da jeg var fire. Først var det mer kindergarten. Senere begynte jeg på en vanlig primary school, bare for europeere eller hvite. Der trivdes jeg bedre.
+Mamma: Da jeg var fire. Først var det kindergarten. Så begynte jeg på en vanlig primary school, bare for hvite eller europeere. Der trivdes jeg bedre.
 
-Mamma: Den første læreren, særlig i kindergarten, var streng. Hun var fransk og ble omtalt som Miss Forrey, eller Madame Poiré på fransk. Hun ga ørefiker og rappet oss over fingrene. Det var ikke noe hyggelig. Vi lærte mye, men av frykt. Jeg kunne pluss, gange, dele og lese tidlig, men det ble prentet inn.
+Mamma: Men den første læreren, særlig i kindergarten, var streng. Hun ble omtalt som Miss Foiret. Hun var ikke snill. Hun ga ørefiker, hun rappet oss over fingrene, og hun holdt et regime.
 
-Mamma: Da ting begynte å forandre seg politisk, og skolen ble stengt eller åpnet for afrikanere, ble jeg flyttet tilbake til kindergarten en periode. Da var skolen lagt til klubben. Den læreren skrev senere brev til Rose og ville nesten komme på besøk til Risør, men da sa Jakob nei.
+Tim: Så du lærte jo mye, men av frykt?
 
-Tim: Så han var skeptisk til hvordan hun hadde behandlet dere?
+Mamma: Ja. Det ble prentet inn. Jeg kunne plusse, gange, dele og lese tidlig. Men det var ikke fordi det var koselig.
 
-Mamma: Ja, mer enn Rose var. Rose blåste mer av det.
+Mamma: Da ting begynte å forandre seg politisk, og skolen ble stengt eller åpnet for afrikanere, ble jeg flyttet tilbake til kindergarten en periode, da skolen var lagt til klubben. Denne læreren skrev senere brev til Rose og ville nesten komme til Norge. Da husker jeg at Wenche og jeg protesterte. Og Jakob sa nei. Det skal vi ikke ha her.
 
-### [41:00] Bilen, pepper spray og klubblivet
+### [44:00] Pepper spray, klubb og barn i bilen
 
-Mamma: Mor kjørte oss frem og tilbake i bilen uten sikkerhetsbelter, veldig fort, på støvete veier. Hun hadde alltid pepperspray i håndveska, i tilfelle bilen stoppet og noen skulle prøve seg. Det var den typen beredskap som var vanlig.
+Mamma: Hun kjørte oss frem og tilbake uten sikkerhetsbelter, veldig fort, på støvete veier. Hun hadde pepperspray i håndveska i tilfelle bilen stoppet og noen skulle prøve seg. Det var en del av hverdagen.
 
-Mamma: Klubben i Thika var samlingspunktet for settlerne. Nordmenn, dansker, briter og andre europeere møttes der. Det var tennis, kaffeavtaler, luncher, fester. Hvis de skulle på party der, ble vi ofte tatt med, lagt i bilen ferdig i pysj og sov i baksetet mens de festet. En vaktmann kom og kikket inn med jevne mellomrom.
+Mamma: Klubben i Thika var samlingspunktet for settlerne. Nordmenn, dansker, briter og andre europeere møttes der. Hvis de skulle på fest der, ble vi tatt med i bilen i pysj og lagt i baksetet mens de var på fest. En vaktmann kom med jevne mellomrom og så inn i bilen for å sjekke at alt var i orden.
 
-Tim: Var det skummelt?
+Tim: Var du redd?
 
-Mamma: Nei, egentlig ikke. Det var bare sånn det var. Men i dag høres det jo helt vanvittig ut.
+Mamma: Nei, det var jo bare sånn det var. Men i dag høres det jo helt sprøtt ut. Og jeg er helt sikker på at hun kjørte hjem i stupmørket mens han ikke var edru.
 
-Mamma: Dan og Vesla Koren besøkte vi også. Det var faktisk første gang jeg hørte norsk. Jeg kom ut av bilen og skjønte plutselig ingenting av det som ble sagt, fordi min far snakket norsk med dem og barna deres. Det var da det gikk opp for meg at han kom fra et annet land.
+### [47:30] Første gang jeg hørte norsk
 
-### [47:00] Fødselsdager, Nairobi National Park og klubben
+Mamma: Vi besøkte Dan og Vesla Koren flere ganger. De hadde to barn. Og jeg husker at jeg kom ut av bilen, må ha vært fire-fem år gammel, og så begynte min far plutselig å snakke norsk. Da forsto jeg ingenting. Det var første gang det gikk opp for meg at han var fra et annet land.
 
-Mamma: På bursdagene våre fikk vi ofte velge mellom Nairobi National Park og slangeparken i Nairobi. Det var "birthday treat". I nasjonalparken så vi gnuer, sebraer og andre dyr fra bilen, og noen ganger måtte vi stoppe mens dyrene krysset veien.
+Mamma: De barna var tospråklige, fordi begge foreldrene deres var norske. Jeg tror at hvis det hadde vært omvendt, at Rose hadde vært norsk, så hadde vi lært norsk mye tidligere.
 
-Mamma: Det mest skumle var når bavianene kom og satte seg på biltaket mens vi sto i kø ut av parken. Da måtte alle vinduer igjen.
+### [50:00] Bursdager, nasjonalpark og bavianer
 
-Mamma: Vi feiret også bursdager på klubben, med masse kaker og gelé. Jeg har aldri likt gelé siden, for jeg ble tvunget til å spise det. På skolen hadde vi også Sports Day, veldig British, med uniformer og formasjoner.
+Mamma: På bursdagene våre fikk vi velge mellom Nairobi National Park og slangeparken i Nairobi. Det var "the birthday treat".
 
-### [51:00] Thika, svømming, teater og hverdagsliv
+Mamma: I nasjonalparken kjørte vi rundt og så dyr fra bilen. Gnuer, sebraer, flokker som krysset veien. Det mest skumle var når bavianene kom og satte seg på biltaket mens vi sto i kø. Da måtte alle vinduer opp, og de bøyde seg ned og kikket inn i bilen.
 
-Mamma: Når hun skulle handle i Thika, hadde hun sine butikker og skreddere, ofte indiske handelsfolk. Vi kjøpte engelsk sjokolade. Hun sydde alle kjolene våre på en liten Singer-maskin.
+Mamma: Vi hadde piknik. En gang hoppet en ape inn og stjal mat. Den tok én ting i kjeften og flere med hendene og forsvant ut igjen. Det var både skummelt og utrolig fascinerende.
 
-Mamma: Vi dro også til Blue Post for å svømme. Jeg tror det stedet fortsatt finnes. Der lærte jeg å svømme. Det var egne tider for europeere og andre grupper. Vi var også fascinert av sikher som badet der og tok av seg turbanen.
+Mamma: Vi feiret også bursdagene på klubben, med masse kaker og gelé. Jeg har aldri likt gelé siden, fordi jeg ble tvunget til å spise det.
 
-Mamma: Rose lagde små teaterforestillinger med oss. Hun sydde kostymer, håndmalte programmer og gjorde hele opplegget. Hun kunne være ganske sur hvis hun ble forstyrret mens hun holdt på, men hun var også kreativ og flink med hendene.
+### [54:00] Sports Day, shopping og Blue Post
 
-### [55:00] Hesteveddeløp, Malindi og de siste Kenya-minnene
+Mamma: På skolen hadde vi Sports Day. Veldig British. Formasjoner, flagg, hele opplegget. Det tror jeg også finnes på film.
 
-Mamma: Vi dro på hesteveddeløp. Da var hun staset opp i 50-tallskjole og hatt, og vi også. Hun likte å gamble litt, både på fotballpools og på hester. Vi hadde piknik ved bilen, med hardkokte egg, og det husker jeg godt.
+Mamma: Når Rose skulle handle i Thika, hadde hun sine butikker og skreddere, ofte drevet av indere. Vi kjøpte engelsk sjokolade. Hun gjorde "the big shop". Det står også i dagbøkene.
 
-Mamma: Vi var også på ferie i Malindi et par ganger. Vi fløy med propellfly ned til kysten og spydde som griser på turen. Der bodde vi i bungalow på stranda, badet i sjøen og i et stort basseng, og så de rosa krabbene på stranden. Jakob kom gjerne etter senere fordi han ikke kunne være borte like lenge.
+Mamma: Vi dro til Blue Post Hotel i Thika for å svømme. Der lærte jeg å svømme. Det var egne tider for europeere og andre grupper. Vi var fascinert av sikher som badet og tok av seg turbanen.
 
-Mamma: Vi kjørte gjennom store sisalfelt på vei til farmen. Veien gikk over store maurtuer eller jordhauger, og det syntes vi var gøy når hun kjørte over dem. Hun kjørte alltid fort, og Jakob ble rasende.
+### [57:00] Teater, pools og hesteveddeløp
 
-Mamma: Vi sov alltid med myggnett. Før vi la oss, ble rommet sprayet med DDT. Slik man snakker om DDT i dag, skulle vi kanskje knapt ha overlevd, men sånn var det.
+Mamma: Rose lagde små teaterforestillinger med oss. Hun sydde kostymer, håndmalte programmer og holdt på om kveldene med Singer-maskinen sin. Hun kunne være ganske sur hvis hun ble forstyrret når hun holdt på med noe, men det var også en viktig kreativ side ved henne.
 
-Mamma: Mot slutten begynte det å bli mer og mer snakk om at Kenya skulle bli independent, at farmene gradvis skulle overtas av kenyanere, og at fremtiden for de europeiske familiene der var på vei til å ta slutt. Men selve avreisen og hjemreisen hører kanskje mer til neste del.
+Mamma: Hun spilte også på pools, altså fotball eller spill av noe slag. "Did not win much", står det i dagbøkene.
 
-### Supplemental recording: Mau Mau side conversation
+Mamma: Og så dro vi på horse races. Det var veldig stas. Hun stilte i fine 50-tallskjoler og hatt. Vi ble pyntet opp. Vi kunne stå og se på hestene og peke ut den vi syntes var finest. Hvis den vant og hun ikke hadde spilt på den, ble hun irritert.
 
-- Supplemental source audio: `Mamma intervju Sidespor 1 - Mau Mau.m4a`
-- Approximate duration: 5m 58s
-- Editorial note: this section comes from a separate recording and will be inserted here during cleanup because it belongs to the upbringing and colonial Kenya material.
+Mamma: Vi hadde piknik ved bilen med hardkokte egg. Det husker jeg godt.
 
-#### [Supplemental] Mau Mau og beredskapen rundt farmene
+### [61:00] Malindi, flyturen og de siste minnene
 
-Tim: Jeg har et lite sidespor om Mau Mau. Kan vi ta det kort?
+Mamma: Vi var på ferie i Malindi et par ganger. Vi fløy ned til kysten i propellfly og spydde som griser, fordi det var så humpete.
 
-Mamma: Ja, men jeg er ikke historiker, så det er greit å si med en gang. Det jeg har forsøkt, er å tenke litt rundt det og sette meg litt inn i det i ettertid.
+Mamma: Der bodde vi i bungalow på stranden. Jeg husker de rosa krabbene som løp bortover. Vi badet i sjøen og i et stort basseng. Det var sol, bading, å bli solbrent, og å bli smurt inn. Det var stas.
 
-Mamma: Kenya var en britisk koloni. Europeiske settlere fikk land, og mye av jorda ble tatt fra afrikanerne.
+Mamma: På vei inn til Rubislaw kjørte vi gjennom store sisalfelt og over jordhauger eller maurtuer som gjorde at bilen humpet voldsomt. Det syntes vi var gøy. Hun kjørte fort, og Jakob ble rasende.
 
-Tim: Med militær makt?
+Mamma: Vi sov alltid med myggnett. Før vi la oss, sprayet de rommet med DDT. I dag høres det jo helt vanvittig ut, men det var en del av hverdagen.
 
-Mamma: Det vet jeg ikke godt nok, men kolonimakten mente i hvert fall at de visste bedre hvordan jorda skulle brukes. Her må vi grave litt dypere senere.
+### [65:00] Mau Mau sidespor
 
-Mamma: Jeg tror også britene satte folkegrupper opp mot hverandre og støttet noen framfor andre. Slik jeg har forstått det, vokste Mau Mau fram som et voldelig opprør, særlig med røtter i kikuyu-miljøer. Samtidig var ikke alle kikuyuer på samme side. Noen var lojale mot settlerne og jobbet på farmene, andre støttet opprøret.
+Editorial note: The short Mau Mau recording is a separate raw source and has now been broken out as its own standalone transcript in [mau-mau-side-master-transcript.md](/Users/timknutsen/Desktop/intervju_Mamma_Kenya/transcripts/mau-mau-side-master-transcript.md). It belongs conceptually here because it grows out of the same childhood world of security, weapons, settler fear, and later historical reflection.
 
-Mamma: Jeg har lest at folk kunne bli presset eller påvirket inn i det, og at volden ble veldig brutal. Da svarte myndighetene hardt. Det fantes både militære tiltak og en sivil beredskap blant settlerne.
+## Preservation notes
 
-Mamma: Jakob var en del av dette miljøet, og et tydelig barndomsminne for meg er at han alltid gikk bevæpnet. Jeg husker også farmen som sterkt sikret: piggtråd rundt våningshuset, port, vaktmann og hunder om natten.
+- Bevisst bevart: hele den hverdagslige koloniale infrastrukturen rundt estate, village, kjøkken, coffee plant, kontor, hage, klubber, biler og skole.
+- Bevisst bevart: små barndomsminner som kameleoner, varme kaffebønner, apen som stjal mat, katten Bambo, geléen, pikniken ved bilen og de rosa krabbene i Malindi.
+- Bevisst bevart: farens bevepning, guard dog, pepper spray, barn i bil under fest, og slangene som en del av sikkerhets- og fryktlandskapet.
+- Bevisst bevart: Roses skiftende sider som kreativ, rask, bestemt, til tider sint, men også praktisk og omsorgsfull på egne premisser.
+- Bevisst bevart: skillet mellom det hun tydelig husker selv og det hun delvis leser ut av dagbøker eller tenker seg i ettertid.
+- Fortsatt uklart: deler av det tidlige arbeids-/landsbypassasjen fordi ASR bryter sammen der, og ayaens navn.
 
-Tim: Men du har ikke egne minner fra selve opprøret?
+## Verification list
 
-Mamma: Nei. Jeg ble født i 1954, så det er for tidlig for at jeg kan huske den første og mest intense perioden.
-
-Tim: Så mye av dette er noe du har fått fortalt senere?
-
-Mamma: Ja, enten fortalt i familien eller lest i ettertid.
-
-Tim: Når ble Kenya selvstendig?
-
-Mamma: Ikke før i 1963.
-
-Tim: Da gir det mening å fylle inn litt historisk bakgrunn rundt minnene dine.
-
-Mamma: Ja, det tror jeg er lurt.
-
-## Unresolved items to carry into review
-
-- Confirm the exact spelling of `Rubishlog`, which appears with variant ASR forms later in the recording.
-- Confirm names and spellings for `Charago`, `Katschutta`, `[Wanjiko?]`, and `Miss Forrey / Madame Poiré`.
-- Confirm the snake names `[puff adder?]` and `[mamba?]`.
-- Confirm where the Mau Mau side recording should sit chronologically inside the larger upbringing transcript.
+- Confirmed from family review: estate name should be `Rubislaw`.
+- Stable ASR spellings kept for now: `Charago`, `Katschutta`, and `Bambo`.
+- Still to verify if possible: ayaens navn, foreløpig markert som `[possibly Wanjiko]`.
+- Confirmed from family review: the teacher should stand as `Miss Foiret`.
+- Confirmed from family review: the snake names should stand as `puff adder` and `mamba`.
+- Second pass against `.json` recovered the overall structure of the degraded estate/labor passage, but not every detail in the labor roles.
+- Confirmed from family review: `Blue Post Hotel` in Thika and `Spring Valley` as the residential area in Nairobi are the intended place names.
+- Confirmed from family review: `Nairobi National Park` is the correct park for the birthday outings.
