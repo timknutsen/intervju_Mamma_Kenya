@@ -10,6 +10,8 @@ Active files live in `stories/en/`.
 
 Earlier Norwegian drafting has been intentionally archived and is not part of the current working baseline.
 
+The current review site is already built from these files into `docs/` for GitHub Pages deployment.
+
 ## Target model
 
 The active master workflow is English-first.
@@ -50,3 +52,10 @@ The intended text stack is:
 ## Near-term goal
 
 The near-term goal is not a final book manuscript. It is to build a set of strong reviewable English text versions that can later be published on a website, likely via GitHub Pages, so your mother can read and respond.
+
+Current next step:
+
+- review the English interview-faithful version first
+- collect corrections and recognizability feedback
+- revise the story-faithful layer from that
+- only then revise the story-optimized layer

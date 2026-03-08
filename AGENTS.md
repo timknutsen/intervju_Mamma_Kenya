@@ -16,6 +16,13 @@ Norwegian is no longer an active drafting layer. It is postponed until the Engli
 
 For now, the raw audio should stay local-only and should not be pushed to the remote repository. Keep the files in the repo root on disk, but do not track them in git.
 
+Current repo status:
+
+- The git repository is initialized and pushed to GitHub at `timknutsen/intervju_Mamma_Kenya`.
+- The review site is generated into `docs/` and is intended to be served by GitHub Pages from `main` + `/docs`.
+- The raw `.m4a` files exist locally in the repository root and in separate local backup folders, but are intentionally excluded from git history and from the remote repository.
+- The active editorial stack is the three English files in `stories/en/`.
+
 ## Source hierarchy and workflow contracts
 Future agents must respect this artifact hierarchy:
 
@@ -164,6 +171,7 @@ Rules:
 
 - Default platform direction is web-first.
 - Near-term web goal is review and iteration, not polish for its own sake.
+- The current deployment model is plain static HTML in `docs/`, not Jekyll and not GitHub Actions.
 - Do not lock the repository to a complex framework until the text stack is more stable.
 - The final experience should combine approved story text, researched context, maps, timelines, family photos, and carefully curated historical media.
 - Family photos should be treated as the emotional core of the experience.
@@ -182,6 +190,7 @@ There is no conventional build system yet for the repository as a whole, but the
 - `scripts/chunk_audio.sh "<audio-file>"`: create fallback chunk files in `outputs/chunks/` without transcribing them.
 - `python3 scripts/build_review_site.py`: generate the static review site into `docs/` from `stories/en/`.
 - `mkdir -p transcripts stories/en research assets/family assets/historical web archive`: create the standard working structure when needed.
+- `git push -u origin main`: push the current repo state to GitHub once local changes are ready.
 
 If additional scripts are added later, document their exact invocation here and keep commands reproducible from the repository root.
 

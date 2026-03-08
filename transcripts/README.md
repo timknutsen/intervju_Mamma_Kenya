@@ -10,6 +10,8 @@ These files are not the final editorial master. Their job is to:
 2. support verification against the raw recordings
 3. support the active English master files in `stories/en/`
 
+The raw audio they refer to is kept locally only and is not part of the remote git repository.
+
 Current active files:
 
 - `del-1-master-transcript.md`
