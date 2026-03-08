@@ -1,10 +1,10 @@
-# My Mother's Childhood in Colonial Kenya
+# Story-Faithful Version
 
-- Status: first English adaptation draft
-- Layer: story
-- Base text: `stories/no/mors-oppvekst-i-koloniale-kenya-v1.md`
+- Status: first English story-faithful draft
+- Layer: English story-faithful
+- Base text: `stories/en/interview-faithful-v1.md`
 - Supporting sources: `transcripts/del-1-master-transcript.md`, `transcripts/del-2-master-transcript.md`, `transcripts/del-3-master-transcript.md`
-- Editorial rule: this is an English adaptation of the Norwegian story manuscript and the approved transcripts, not an independent rewrite
+- Editorial rule: this version tells the material as she told it, but in readable memoir prose rather than interview form
 
 ## Draft
 
@@ -92,6 +92,6 @@ It was a childhood inside a colonial system, and it cannot be told honestly with
 
 ## Editorial notes
 
-- This is a first English adaptation draft, not a final literary version.
+- This is the story-faithful layer, not the optimized literary layer.
+- It should remain visibly closer to her storytelling movement than the later optimized version.
 - Unresolved details that should not be hard-locked in later versions: `Sianda`, the aya's name `[possibly Wanjiko]`, and Alexandra's exact surname or relation in South Africa.
-- The Mau Mau material is only touched indirectly here. In a later version it should be woven in with a clear distinction between childhood memory, family understanding, and historical context.
