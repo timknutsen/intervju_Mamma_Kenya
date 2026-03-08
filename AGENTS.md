@@ -47,7 +47,8 @@ Active structure:
 - `stories/en/`: the active English master text stack.
 - `outputs/`: machine transcription support files, limited to `.txt` and `.json`.
 - `scripts/`: repeatable local tooling such as transcription and chunking.
-- `web/`: future GitHub Pages review site and later interactive experience.
+- `web/`: web workflow notes and source conventions for the review site.
+- `docs/`: GitHub Pages-ready static site output.
 
 Support and later-stage structure:
 
@@ -177,6 +178,7 @@ There is no conventional build system yet for the repository as a whole, but the
 - `scripts/transcribe_local.sh "<audio-file>"`: generate machine transcription outputs in `outputs/`.
 - `scripts/transcribe_chunked.sh "<audio-file>"`: chunk a long recording into 15-minute parts and transcribe each chunk with the same local setup.
 - `scripts/chunk_audio.sh "<audio-file>"`: create fallback chunk files in `outputs/chunks/` without transcribing them.
+- `python3 scripts/build_review_site.py`: generate the static review site into `docs/` from `stories/en/`.
 - `mkdir -p transcripts stories/en research assets/family assets/historical web archive`: create the standard working structure when needed.
 
 If additional scripts are added later, document their exact invocation here and keep commands reproducible from the repository root.
