@@ -1,4 +1,6 @@
 .DS_Store
+.AppleDouble
+.LSOverride
 .venv/
 __pycache__/
 outputs/chunks/

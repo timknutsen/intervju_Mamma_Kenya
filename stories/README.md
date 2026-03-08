@@ -1,20 +1,18 @@
 # Story workflow
 
-This folder now has a different role from before.
+This folder now holds the active English editorial workflow.
 
 ## Current state
 
-Right now the repository contains:
+Right now the active story layer is English-only.
 
-- one Norwegian working draft in `stories/no/`
-- one English interview-faithful draft in `stories/en/`
-- English narrative drafts in `stories/en/`
+Active files live in `stories/en/`.
 
-These are useful working drafts, and the repo is now being reshaped so they line up with the final intended workflow.
+Earlier Norwegian drafting has been intentionally archived and is not part of the current working baseline.
 
 ## Target model
 
-The active master workflow is now English-first.
+The active master workflow is English-first.
 
 The intended text stack is:
 
@@ -44,16 +42,11 @@ The intended text stack is:
 - May reorder and shape material more strongly
 - Must still be traceable to the earlier layers
 
-### Norwegian publication versions
-
-- Produced only after the English stack is strong
-- Should be based on approved English versions, not rebuilt separately from scratch
-
 ## Folder roles
 
 - `stories/en/`: active master story layer
-- `stories/no/`: late-stage Norwegian adaptations
+- `archive/legacy-editorial/`: archived Norwegian and other retired editorial material
 
 ## Near-term goal
 
-The near-term goal is not a final book manuscript. It is to build a set of strong reviewable text versions that can later be published on a website, likely via GitHub Pages, so your mother can read and respond.
+The near-term goal is not a final book manuscript. It is to build a set of strong reviewable English text versions that can later be published on a website, likely via GitHub Pages, so your mother can read and respond.

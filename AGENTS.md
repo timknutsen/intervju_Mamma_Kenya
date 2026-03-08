@@ -1,31 +1,18 @@
 # Repository Guidelines
 
 ## Mission and current direction
-This repository is an oral-history production workspace for documenting, preserving, shaping, and eventually publishing your mother's story of growing up in colonial Kenya.
+This repository is an oral-history production workspace for preserving, shaping, and eventually publishing your mother's story of growing up in colonial Kenya.
 
-The workflow has changed in an important way:
+The active workflow is now intentionally lean and English-first:
 
-1. English is now the working language for all active drafting and editorial work.
-2. The most faithful interview-near version should also become an English master file.
-3. Norwegian is now a late-stage publication and review layer, not the drafting master.
-4. The long-term publication target is a website, likely served through GitHub Pages, so your mother can read and comment as the project evolves.
+1. Keep the raw Norwegian interview audio unchanged in the repo root.
+2. Keep reproducible local ASR scripts so the machine transcript layer can be regenerated.
+3. Keep source-language transcript support in `transcripts/`.
+4. Use the English text stack in `stories/en/` as the active editorial workflow.
+5. Keep obsolete experiments and legacy drafts in `archive/`, not in the active tree.
+6. Use the website later as the review and publication surface.
 
-The repo is currently in a transition state:
-
-- The raw source material is the original Norwegian-language interview audio.
-- The preservation-first transcript layer currently exists mainly in Norwegian.
-- There is already a Norwegian working draft, an English interview-faithful draft, and English narrative drafts in progress.
-- These are useful working artifacts, but they are no longer the final workflow model.
-
-The target workflow from now on is:
-
-1. Build an English interview-faithful master transcript that stays as close as possible to what was actually said, while cleaning obvious ASR errors, filler, and repetition.
-2. Build an English story-faithful version that tells the material as your mother told it.
-3. Build an English story-optimized version that improves flow, chronology, transitions, and literary force.
-4. Only after those English versions are strong and approved should Norwegian publication versions be produced.
-5. Publish approved versions on a web page for iterative review, then later expand that into the richer interactive experience.
-
-Do not drift back into treating Norwegian as the drafting master unless the user explicitly asks for that.
+Norwegian is no longer an active drafting layer. It is postponed until the English versions are approved.
 
 ## Source hierarchy and workflow contracts
 Future agents must respect this artifact hierarchy:
@@ -33,11 +20,12 @@ Future agents must respect this artifact hierarchy:
 1. Raw audio in the repository root is immutable source material.
 2. Machine transcription outputs are intermediate artifacts only.
 3. Source-language cleaned transcripts are support documents for verification and traceability.
-4. The English interview-faithful master is the canonical editorial base.
-5. The English story-faithful narrative is the second layer.
-6. The English story-optimized narrative is the third layer.
-7. Norwegian versions are downstream adaptations from approved English layers.
-8. The website and later interactive experience are downstream from approved text, research, and media.
+4. Machine outputs kept in `outputs/` are the reproducible ASR support layer and should be limited to `.txt` and `.json`.
+5. The English interview-faithful master is the canonical editorial base.
+6. The English story-faithful narrative is the second layer.
+7. The English story-optimized narrative is the third layer.
+8. Norwegian versions are downstream adaptations from approved English layers.
+9. The website and later interactive experience are downstream from approved text, research, and media.
 
 Treat these as explicit interfaces between phases:
 
@@ -53,27 +41,32 @@ Research notes support the story but do not replace interview content. Media inv
 ## Project structure and file roles
 Keep raw `.m4a` recordings in the repository root only when they are primary source material. Use clear folders for everything derived from them.
 
-- `transcripts/`: source-language transcript support, verification artifacts, timestamped notes, and unresolved passage lists.
-- `stories/en/`: the active master story layer in English.
-- `stories/no/`: late-stage Norwegian adaptations derived from approved English versions.
+Active structure:
+
+- `transcripts/`: source-language transcript support and verification-oriented source documents.
+- `stories/en/`: the active English master text stack.
+- `outputs/`: machine transcription support files, limited to `.txt` and `.json`.
+- `scripts/`: repeatable local tooling such as transcription and chunking.
+- `web/`: future GitHub Pages review site and later interactive experience.
+
+Support and later-stage structure:
+
 - `research/`: sourced historical notes, chronology, geography, colonial context, Thika context, plantation life notes, and citation logs.
 - `assets/family/`: family-provided photos and media.
 - `assets/historical/`: curated historical media from archives or the web, with source and rights notes.
-- `outputs/`: machine transcription outputs and generated review/export files.
-- `web/`: future GitHub Pages site and, later, richer interactive web work.
-- `scripts/`: repeatable local tooling such as transcription and export generation.
+- `archive/`: preserved but inactive material from earlier workflow phases.
 
 If a needed folder does not exist yet, create it before adding new derived material. Avoid scattering working files in the repository root.
 
 ## Session startup rules
 At the start of every work session:
 
-1. Review the current state of transcripts, English story versions, Norwegian adaptations, research, and media inventories.
+1. Review the current state of transcripts, English story versions, research, archive contents, and media inventories.
 2. Identify the highest-priority unfinished layer and continue that before expanding scope.
 3. Surface unresolved names, dates, places, chronology gaps, speaker ambiguities, and uncertain wording.
 4. Avoid jumping into web polish or historical context buildout while the English master text stack is still unstable.
 
-Always state which layer you are working on: transcript support, English interview-faithful master, English story-faithful narrative, English story-optimized narrative, Norwegian adaptation, research/context, media archive, or web experience.
+Always state which layer you are working on: transcript support, English interview-faithful master, English story-faithful narrative, English story-optimized narrative, research/context, media archive, archive maintenance, or web experience.
 
 ## Transcript rules
 The interview-faithful master is the most important artifact in this repository, even though the raw interview happened in Norwegian.
@@ -82,6 +75,8 @@ From now on, transcript work should distinguish clearly between two things:
 
 - source-language transcript support inside `transcripts/`
 - the canonical English interview-faithful master that will be built from it
+
+Legacy compatibility stubs should not be recreated. Verification belongs inside the active master transcript documents.
 
 Rules for the interview-faithful master:
 
@@ -148,6 +143,14 @@ Historical research is important, but it must remain clearly separated from fami
 
 Do not let sourced history overwrite lived memory without making that editorial move explicit.
 
+## Archive rules
+The `archive/` folder exists to keep recoverable history out of the active workflow.
+
+- Archived files are preserved for reference, not for active editing.
+- Do not move archived files back into the active tree unless the user explicitly asks.
+- When replacing a working approach, archive the old material if it still has reference value.
+- Archive README files should explain why the material was retired.
+
 ## Media and web publishing rules
 The publication path now has two stages:
 
@@ -174,7 +177,7 @@ There is no conventional build system yet for the repository as a whole, but the
 - `scripts/transcribe_local.sh "<audio-file>"`: generate machine transcription outputs in `outputs/`.
 - `scripts/transcribe_chunked.sh "<audio-file>"`: chunk a long recording into 15-minute parts and transcribe each chunk with the same local setup.
 - `scripts/chunk_audio.sh "<audio-file>"`: create fallback chunk files in `outputs/chunks/` without transcribing them.
-- `mkdir -p transcripts stories/en stories/no research assets/family assets/historical web`: create the standard working structure when needed.
+- `mkdir -p transcripts stories/en research assets/family assets/historical web archive`: create the standard working structure when needed.
 
 If additional scripts are added later, document their exact invocation here and keep commands reproducible from the repository root.
 
@@ -185,9 +188,6 @@ Use descriptive, consistent filenames. Prefer lowercase, hyphen-separated names 
 - `stories/en/interview-faithful-v1.md`
 - `stories/en/story-faithful-v1.md`
 - `stories/en/story-optimized-v1.md`
-- `stories/no/intervju-naer-v1.md`
-- `stories/no/historie-som-fortalt-v1.md`
-- `stories/no/historie-optimalisert-v1.md`
 - `research/thika-colonial-context.md`
 - `assets/historical/media-inventory.md`
 
@@ -203,7 +203,7 @@ Because this repository is archival and editorial rather than executable, verifi
 - Spot-check source-language transcripts against the recording, especially names, dates, and uncertain passages.
 - Confirm that the English interview-faithful master stays close to the actual interview.
 - Confirm that the story-faithful and story-optimized versions remain traceable to the earlier layers.
-- Confirm that Norwegian versions are adapted from approved English layers, not rebuilt independently.
+- Confirm that Norwegian versions are adapted from approved English layers, not rebuilt independently, if and when they are reintroduced later.
 - Confirm that sourced historical claims include citations and access dates.
 - Confirm that external media records include credit and rights or reuse notes.
 - Before major web work, verify that the English master stack is strong enough for publication review.
