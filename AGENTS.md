@@ -14,6 +14,8 @@ The active workflow is now intentionally lean and English-first:
 
 Norwegian is no longer an active drafting layer. It is postponed until the English versions are approved.
 
+For now, the raw audio should stay local-only and should not be pushed to the remote repository. Keep the files in the repo root on disk, but do not track them in git.
+
 ## Source hierarchy and workflow contracts
 Future agents must respect this artifact hierarchy:
 
