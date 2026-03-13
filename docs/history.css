@@ -1,0 +1,194 @@
+/* History page styles — extends styles.css */
+
+.history-hero {
+  background: var(--card);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: var(--shadow);
+  padding: 48px 38px;
+  border-radius: 28px;
+  margin-bottom: 0;
+}
+
+.history-hero h1 {
+  font-size: clamp(2.2rem, 3.2vw, 3.8rem);
+  line-height: 1.06;
+  margin: 0 0 16px;
+  letter-spacing: -0.03em;
+}
+
+/* Timeline navigation */
+.timeline-nav {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  display: flex;
+  gap: 4px;
+  padding: 14px 20px;
+  margin: 24px 0;
+  background: rgba(244, 239, 228, 0.92);
+  backdrop-filter: blur(12px);
+  border-radius: 999px;
+  border: 1px solid var(--line);
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+
+.timeline-nav::-webkit-scrollbar {
+  display: none;
+}
+
+.timeline-dot {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 8px 14px;
+  border-radius: 999px;
+  text-decoration: none;
+  font-family: "Avenir Next", "Gill Sans", Calibri, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--muted);
+  letter-spacing: 0.02em;
+  transition: background 0.25s, color 0.25s;
+  white-space: nowrap;
+}
+
+.timeline-dot::before {
+  content: attr(data-year);
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: var(--accent);
+  opacity: 0.6;
+}
+
+.timeline-dot:hover {
+  background: var(--accent-soft);
+}
+
+.timeline-dot.active {
+  background: var(--accent);
+  color: #f5f0e7;
+}
+
+.timeline-dot.active::before {
+  color: rgba(245, 240, 231, 0.7);
+  opacity: 1;
+}
+
+/* Main history body */
+.history-body {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.history-chapter {
+  background: var(--card);
+  backdrop-filter: blur(6px);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  box-shadow: var(--shadow);
+  padding: 36px 38px;
+  border-radius: 28px;
+  scroll-margin-top: 90px;
+}
+
+.chapter-marker {
+  margin-bottom: 12px;
+}
+
+.chapter-date {
+  font-family: "Avenir Next", "Gill Sans", Calibri, sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  background: var(--accent-soft);
+  padding: 5px 14px;
+  border-radius: 999px;
+}
+
+.history-chapter h2 {
+  font-size: clamp(1.6rem, 2.4vw, 2.4rem);
+  line-height: 1.12;
+  margin: 8px 0 18px;
+  letter-spacing: -0.02em;
+}
+
+.history-chapter h3 {
+  font-size: 1.15rem;
+  color: var(--accent);
+  margin: 1.8em 0 0.6em;
+}
+
+.history-chapter p {
+  max-width: 68ch;
+  margin: 0 0 1em;
+}
+
+.history-chapter p:last-child {
+  margin-bottom: 0;
+}
+
+/* Voice notes — interview quotes woven into history */
+.voice-note {
+  margin: 1.6em 0 0;
+  padding: 20px 24px;
+  background: rgba(54, 88, 79, 0.06);
+  border-left: 3px solid var(--accent);
+  border-radius: 0 16px 16px 0;
+}
+
+.voice-note .eyebrow {
+  margin-bottom: 6px;
+}
+
+.voice-note p:last-child {
+  font-style: italic;
+  color: var(--ink);
+  margin-bottom: 0;
+}
+
+/* Sources section */
+.history-chapter ul {
+  max-width: 68ch;
+  padding-left: 1.2em;
+  margin: 0 0 1em;
+}
+
+.history-chapter li {
+  margin-bottom: 0.4em;
+}
+
+.source-note {
+  margin-top: 1.6em;
+  font-size: 0.92rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
+/* Mobile */
+@media (max-width: 640px) {
+  .history-hero,
+  .history-chapter {
+    padding: 26px 22px;
+    border-radius: 22px;
+  }
+
+  .timeline-nav {
+    margin: 16px 0;
+    padding: 10px 14px;
+    border-radius: 18px;
+  }
+
+  .timeline-dot {
+    padding: 6px 10px;
+    font-size: 0.72rem;
+  }
+
+  .timeline-dot::before {
+    display: none;
+  }
+}
