@@ -6,3 +6,4 @@ __pycache__/
 outputs/chunks/
 *.m4a
 .claude/
+.obsidian/
