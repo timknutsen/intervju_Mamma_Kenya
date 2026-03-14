@@ -19,7 +19,7 @@ Tim: Hello, hello.
 
 Mamma: Yes, it looks good.
 
-Tim: Now I know it works. Have you thought about the order? We have to start with Jakob.
+Tim: Now I know it works. Have you thought about the order? We have to start with Jacob.
 
 Tim: Let me just tell the AI that this is an interview with Elizabeth Prebensen, who is my mother. My name is Tim Knutsen. She was born in Kenya, and we are going to talk about her life in Kenya as a child, until she was around eight years old. It will be an unstructured, maybe messy interview, but it is only meant to be written down and worked on afterwards.
 
@@ -33,13 +33,13 @@ Mamma: Yes, yes. It is 1954.
 
 Tim: Don't think about it. Just talk to me.
 
-Mamma: Yes. I was born in 1954, to Jakob Prebensen from Risor and Rosemary Durant from England.
+Mamma: Yes. I was born in 1954, to Jacob Prebensen from Risor and Rosemary Durant from England.
 
 Tim: Why Kenya?
 
-### Jakob and the road out of Norway
+### Jacob and the road out of Norway
 
-Mamma: I will try to say something about that now, for both of them. But then I want to begin with Jakob. He was born in 1916 in Risor. He would have been 110 years old today. He grew up in a fairly well-off family in Risor, back when shipping still meant status. They were shipowners.
+Mamma: I will try to say something about that now, for both of them. But then I want to begin with Jacob. He was born in 1916 in Risor. He would have been 110 years old today. He grew up in a fairly well-off family in Risor, back when shipping still meant status. They were shipowners.
 
 Mamma: Later it did not go so well, but in any case his father moved to Gjerstad. I have to say this now, because it matters later. He bought a farm called Vik Gard, based on an inheritance his wife received from Denmark.
 
@@ -49,7 +49,7 @@ Mamma: Before the war he had been on whaling in the Antarctic, on a ship out of 
 
 Tim: That was your grandfather?
 
-Mamma: No, I am talking about Jakob. Fritz Prebensen was my grandfather, the one who bought the farm. But in any case, Jakob had been whaling, then he came home, and then there was war. I do not know much about what he did during the war. He may have had some connection to the resistance, but I do not know much about it.
+Mamma: No, I am talking about Jacob. Fritz Prebensen was my grandfather, the one who bought the farm. But in any case, Jacob had been whaling, then he came home, and then there was war. I do not know much about what he did during the war. He may have had some connection to the resistance, but I do not know much about it.
 
 Tim: Is there anything written about that?
 
@@ -61,21 +61,21 @@ Mamma: One of those contacts was his cousin, Vesla Koren, who had moved out to K
 
 Mamma: To speak about Kenya, it was a British colony. The British were especially keen to get Europeans out there to buy land and start farms and cultivate. They had been doing that partly even before the war. The Koren family, for example, had been there before the war.
 
-Mamma: Dan Koren went down because of that and took Jakob's cousin with him. I think it was through her that Jakob got the idea of going out there himself and trying a life in the settler world in Kenya.
+Mamma: Dan Koren went down because of that and took Jacob's cousin with him. I think it was through her that Jacob got the idea of going out there himself and trying a life in the settler world in Kenya.
 
 Tim: So Koren was married to the cousin?
 
 Mamma: Yes.
 
-Tim: And where did they live when Jakob went out?
+Tim: And where did they live when Jacob went out?
 
 Mamma: Then I have to start talking about a book I found at the National Library called *Norwegians in Colonial Kenya*. Among other things it mentions a name that suddenly came back to me, and that my father talked a lot about: the Kopperud brothers. They were another Norwegian family who established themselves down there.
 
 Tim: Do you trust the information in that book?
 
-Mamma: Yes. Koren is mentioned a lot, and the cousin too. So I think that was part of why Jakob went out there, and also that he wanted to get away from Gjerstad. He had a need for that.
+Mamma: Yes. Koren is mentioned a lot, and the cousin too. So I think that was part of why Jacob went out there, and also that he wanted to get away from Gjerstad. He had a need for that.
 
-### Jakob's temperament and family wounds
+### Jacob's temperament and family wounds
 
 Tim: Do you know much about why he did not want to stay there?
 
@@ -103,7 +103,7 @@ Tim: Did he have any safe adults in his life, or did he lack that?
 
 Mamma: In Risor and Gjerstad? Yes. The servant girls. He said he had better relationships with them than with his own mother and father. So he was marked by it, and he dwelt on it far too much later in life. He would probably have needed modern psychotherapy to handle it properly.
 
-### Jakob in Kenya
+### Jacob in Kenya
 
 Mamma: I think coming out there was a huge experience for him. It must have been in 1947, I would guess, because they married in 1952, and he said he had been there six or seven years before he met her.
 
@@ -115,7 +115,7 @@ Mamma: When he first arrived, he worked for Dan Koren for many years.
 
 Tim: With coffee?
 
-Mamma: No, then it was cattle. Dan Koren had cattle. Do you know where it was? In the highlands around Nairobi, in a place called Sianda [place spelling still to verify]. That was where he was.
+Mamma: No, then it was cattle. Dan Koren had cattle. Do you know where it was? In the highlands around Nairobi, in a place called Cicenda [place spelling still to verify]. That was where he was.
 
 Mamma: And then he got to read and hear all these stories about the good life down there, from the British point of view: lots of parties, lots of club life. They lived a life around the clubs.
 
@@ -127,7 +127,7 @@ Tim: Are there any photos from that time?
 
 Mamma: Not from that period itself. I have photos from after they married and I was born. But we do have films later.
 
-### More about Jakob
+### More about Jacob
 
 Mamma: He had that adventurousness, with blue-whale whaling and all the rest of it, and of course the need to get away.
 
@@ -185,9 +185,9 @@ Mamma: No, I don't think so. She knew what she was doing, but not necessarily ho
 
 Mamma: After the war she was in her early twenties and worked, among other things, for the British Colour Council. That gave her a great feeling for colour. She was very good with colour, and very good at drawing.
 
-### Kenya, and meeting Jakob
+### Kenya, and meeting Jacob
 
-Mamma: Oliver Durant had by then married Cynthia, her stepmother. He was still in India. They had Christopher in India in 1945, and soon after that they moved to Kenya. So he was based there after the war.
+Mamma: Oliver Durant had by then married Cynthia, her stepmother. He was still in India. They had Christopher in India in 1945, and soon after that they moved to Kenya. There they had another son, Anthony, in 1947. Anthony was Rosemary's half-brother. So he was based there after the war.
 
 Tim: So she had not seen her father in a very long time?
 
@@ -195,19 +195,19 @@ Mamma: No. It went a long time between meetings. But they wrote letters all the 
 
 Mamma: So in 1952 Cynthia wrote and asked her to come out on holiday. That was how she came to Kenya.
 
-Tim: And then she met Jakob?
+Tim: And then she met Jacob?
 
-Mamma: Yes. And here we have two versions. One is the more down-to-earth and probable one: Cynthia worked by taking milk samples around the farms, and Rosemary came with her into a cowshed where Jakob was standing with his arm far up the backside of a cow. That is one version.
+Mamma: Yes. And here we have two versions. One is the more down-to-earth and probable one: Cynthia worked by taking milk samples around the farms, and Rosemary came with her into a cowshed where Jacob was standing with his arm far up the backside of a cow. That is one version.
 
 Tim: And the other?
 
-Mamma: The other, the one Jakob liked to tell, was that they met at a resort in Malindi on the coast, and that he more or less fell straight into her heart. That is nonsense as it stands, but he liked telling it.
+Mamma: The other, the one Jacob liked to tell, was that they met at a resort in Malindi on the coast, and that he more or less fell straight into her heart. That is nonsense as it stands, but he liked telling it.
 
 Mamma: In any case it only took three or four months and they were married. It was one of those sudden infatuations that became a marriage. They married in 1952.
 
 Tim: Why so fast? Was it just because that was what people did?
 
-Mamma: It was probably both because it was more common to marry quickly once you had found the one, and because the whole situation was like that. Jakob used to call himself "her last chance in Africa." He said it jokingly, and it irritated her a bit.
+Mamma: It was probably both because it was more common to marry quickly once you had found the one, and because the whole situation was like that. Jacob used to call himself "her last chance in Africa." He said it jokingly, and it irritated her a bit.
 
 Tim: But they had a good relationship?
 
@@ -291,7 +291,7 @@ Mamma: Yes, at least people with far more money and position.
 
 ### Snakes and fear
 
-Mamma: Another thing connected to the coffee was that Jakob shot two pythons in the coffee field. The coffee bushes were quite high, so they could move around in there. Then he had people bring the snakes back. The skin was stretched on long boards and laid to dry on the billiard table, because they had a billiard room.
+Mamma: Another thing connected to the coffee was that Jacob shot two pythons in the coffee field. The coffee bushes were quite high, so they could move around in there. Then he had people bring the snakes back. The skin was stretched on long boards and laid to dry on the billiard table, because they had a billiard room.
 
 Tim: They played billiards in the evening?
 
@@ -315,7 +315,7 @@ Mamma: No, Swahili. We spoke more Swahili than anything else with her. Kitchen S
 
 Mamma: My father spoke Swahili with them all the time. Probably terrible Swahili, but he had to learn it. Rose could also speak Swahili.
 
-Mamma: We had a cook called Charago. He had a white chef's hat and, I think, a green apron. He was said to be very good at cooking and good with children. We could talk a little with him. But according to the diaries he was also often drunk.
+Mamma: We had a cook called Charago. He had a white chef's hat and, I think, a green apron. He was said to be very good at cooking and good with children. We could talk a little with him. But according to the diaries he was also often drunk. These diaries were my mother's: she kept one on a daily basis her whole life.
 
 Mamma: Then they had a kitchen boy called Katschutta. He was a general handyman. He washed the car, polished floors, did all the practical work that kept the household going.
 
@@ -339,17 +339,17 @@ Mamma: We had two dogs, two Alsatians. Zipp, who was the family dog, and Elsa, w
 
 Mamma: Rose had a beautiful garden, with many flowers, which she worked on. She was keen on gardening and had people helping with it. That too is in the diaries.
 
-Tim: And Jakob was always armed?
+Tim: And Jacob was always armed?
 
-Mamma: Yes. He was always in khaki and with a pistol. The whole lot. Always. That is also what connects back to the Mau Mau side discussion, that this state of readiness is one of my childhood memories.
+Mamma: Yes. He was always in khaki and with a handgun. The whole lot. Always. That is also what connects back to the Mau Mau side discussion, that this state of readiness is one of my childhood memories.
 
 ### Nairobi, Christmas, and driving
 
 Mamma: We spent a lot of time in Nairobi. We visited Oliver and Cynthia many times. They lived in an area called Spring Valley. We always looked forward to that.
 
-Mamma: We celebrated Christmas Day there. Christmas Eve we had at Rubislaw, a Norwegian Christmas Eve, with presents and a tree, because Jakob wanted that. At Oliver and Cynthia's they also had a tree with real candles. It caught fire once. I remember that clearly.
+Mamma: We celebrated Christmas Day there. Christmas Eve we had at Rubislaw, a Norwegian Christmas Eve, with presents and a tree, because Jacob wanted that. At Oliver and Cynthia's they also had a tree with real candles. It caught fire once. I remember that clearly.
 
-Mamma: Another thing I remember from there is that when we were put to bed in the evening, we were laid in Oliver and Cynthia's bed. Then their cat, Bambo, came and lay by my feet. Chris was very impressed afterwards that I still remembered the name Bambo.
+Mamma: Another thing I remember from there is that when we were put to bed in the evening, we were laid in Oliver and Cynthia's bed. Then their cat, Bumble, came and lay by my feet. Chris was very impressed afterwards that I still remembered the name Bumble.
 
 Mamma: My mother drove us around in a DKW, red with a white roof. She did not drive slowly. She drove fast.
 
@@ -365,7 +365,7 @@ Tim: So you learned a lot, but through fear?
 
 Mamma: Yes. It was drilled into us. I could add, multiply, divide, and read early. But it was not because it was cosy.
 
-Mamma: When things started changing politically, and the school was being closed or opened to Africans, I was moved back to kindergarten for a while, when the school had been moved up to the club. That teacher later wrote letters to Rose and almost wanted to come to Norway. Then Wenche and I protested. And Jakob said no. We are not having that here.
+Mamma: When things started changing politically, and the school was being closed or opened to Africans, I was moved back to kindergarten for a while, when the school had been moved up to the club. That teacher later wrote letters to Rose and almost wanted to come to Norway. Then Wenche and I protested. And Jacob said no. We are not having that here.
 
 ### Club life, children in the car, and later memories
 
@@ -399,7 +399,7 @@ Mamma: When Rose went shopping in Thika, she had her own shops and tailors, ofte
 
 Mamma: We went to the Blue Post Hotel in Thika to swim. That was where I learned to swim. There were separate times for Europeans and others. We were fascinated by Sikhs who swam and took off their turbans.
 
-Mamma: Rose made little theatre performances with us. She sewed costumes, hand-painted programmes, and worked away in the evenings on her Singer machine. She could be quite cross if she was disturbed when she was making something, but that was also an important creative side of her.
+Mamma: Rose made little theatre performances with us at the kindergarten school. She sewed costumes and hand-painted the programmes. She could be quite cross if she was disturbed when she was making something, but that was also an important creative side of her.
 
 Mamma: She also played the football pools, or some sort of betting. "Did not win much," it says in the diaries.
 
@@ -411,7 +411,7 @@ Mamma: We went on holiday to Malindi a couple of times. We flew down to the coas
 
 Mamma: There we stayed in a bungalow on the beach. I remember the pink crabs running along. We swam in the sea and in a big pool. It was sun, swimming, getting burnt, being rubbed with lotion. It was exciting.
 
-Mamma: On the way into Rubislaw we drove through huge sisal fields and over mounds or termite hills that made the car lurch violently. We thought that was fun. She drove fast, and Jakob was furious.
+Mamma: On the way into Rubislaw we drove through huge sisal fields and over mounds or termite hills that made the car lurch violently. We thought that was fun. She drove fast, and Jacob was furious.
 
 Mamma: We always slept under mosquito nets. Before we went to bed, they sprayed the room with DDT. Today it sounds unbelievable, but it was part of life.
 
@@ -425,7 +425,7 @@ Mamma: Yes, but I am not a historian, just so that is clear.
 
 Tim: That is fine.
 
-Mamma: But I have tried to think about it a bit and read a little. Because I only got one side of it from Jakob.
+Mamma: But I have tried to think about it a bit and read a little. Because I only got one side of it from Jacob.
 
 Tim: Yes.
 
@@ -445,9 +445,9 @@ Mamma: What people at the time called a "terror organisation" was also part of a
 
 Mamma: I have also read that people could be pressured, influenced, and drawn into it. So I try to keep it open, because I know it was not as simple as it was presented to us.
 
-Tim: And Jakob's role?
+Tim: And Jacob's role?
 
-Mamma: The authorities responded hard. It was not only military measures, but also civilian settler preparedness. Jakob was part of that world.
+Mamma: The authorities responded hard. It was not only military measures, but also civilian settler preparedness. Jacob was part of that world.
 
 Mamma: That was why he was always armed. And that really is one of my own childhood memories: that he always carried a weapon.
 
@@ -471,7 +471,7 @@ Mamma: Not until 1963.
 
 Tim: So it makes sense to fill in some historical things around your memories.
 
-Mamma: Yes, I think that is sensible. There is a lot on the internet alone. But we have to be careful to distinguish between what I actually remember, what I got from Jakob, and what comes from later reading.
+Mamma: Yes, I think that is sensible. There is a lot on the internet alone. But we have to be careful to distinguish between what I actually remember, what I got from Jacob, and what comes from later reading.
 
 ## Part 3: Leaving Kenya
 
@@ -503,7 +503,7 @@ Mamma: That was when he got what was called "the so-called nervous breakdown." I
 
 Mamma: After that a return journey was prepared. She packed large crates with various things. Among them the little chair over there that we still have.
 
-Mamma: This was the autumn, toward Christmas, 1962. We were going to take a ship from Mombasa down to Cape Town and then on from there. The idea was that this would also be some kind of recuperation for Jakob, that he would recover. He did not.
+Mamma: This was the autumn, toward Christmas, 1962. We were going to take a ship from Mombasa down to Cape Town and then on from there. The idea was that this would also be some kind of recuperation for Jacob, that he would recover. He did not.
 
 Mamma: For us children it was exciting. We stopped kindergarten, and we knew we were going to Norway. But the only time I have seen my mother truly upset, with tears streaming down her face, was when she was leaving that life behind.
 
@@ -531,7 +531,7 @@ Mamma: We arrived in Southampton and were met by our Scottish grandmother and Re
 
 Mamma: He made contact with Minnie and Per Adler in Oslo, and it was decided that he should travel over in advance for treatment. Per Adler had nerve problems himself and had also been admitted to Vinderen, so he had contacts.
 
-Mamma: Jakob was sent by plane and admitted. We stayed behind in England with grandmother and Reggie, in some sort of boarding house. Then we were also with [name unclear: Orsela / Ursula?], who was a cousin of Rose, in a little village called Great Chisel [place spelling still to verify] outside Cambridge.
+Mamma: Jacob was sent by plane and admitted. We stayed behind in England with grandmother and Reggie, in some sort of boarding house. Then we were also with [name unclear: Orsela / Ursula?], who was a cousin of Rose, in a little village called Great Chisel [place spelling still to verify] outside Cambridge.
 
 Mamma: We lived in a little cottage there for a few weeks. At the same time he was treated, including with shock treatment.
 
@@ -541,7 +541,7 @@ Mamma: That was our first meeting with Norway on land. First we had been in Engl
 
 Mamma: Eventually he recovered enough that we could move to Gjerstad. It was late autumn. The transition was a great shock for Rose. The climate was completely different. Suddenly we had to wear masses of clothes, tights, trousers, everything. It was the first time we really felt what cold was.
 
-Mamma: And then it turned out that the farm in Gjerstad was completely run down. That was a great disappointment and a shock for Jakob.
+Mamma: And then it turned out that the farm in Gjerstad was completely run down. That was a great disappointment and a shock for Jacob.
 
 ### Later reflections
 
@@ -555,7 +555,7 @@ Mamma: We learned quickly. We could stand in the doorway and speak English in to
 
 Mamma: Fritz Prebensen died in 1965. Then the farm was sold. I do not think there was much to be got from it, to be honest. He was not especially good with money.
 
-Mamma: Jakob started at the pulp factory in Risor. They needed people, so he quickly got sea work there. But it was physically demanding work, and he was not physically strong. The transition from seventeen years in the tropics to the climate in Risor was a great strain.
+Mamma: Jacob started at the pulp factory in Risor. They needed people, so he quickly got sea work there. But it was physically demanding work, and he was not physically strong. The transition from seventeen years in the tropics to the climate in Risor was a great strain.
 
 Mamma: After some years he was put on disability. He also had several further breakdowns later. When Gry was born in 1976 he had a serious collapse and spent a year at Kokkplassen in Arendal. That was when they used electroshock again, and then lithium came. I actually think lithium kept him stable for the rest of his life.
 
@@ -569,5 +569,6 @@ Mamma: But that is really the story afterwards. The important thing here is the 
 
 - This file is intended to be the canonical English interview-faithful master.
 - It stays in interview form and is meant to remain recognizably close to the actual conversation.
-- Unresolved details that should not be hard-locked yet: `Sianda`, aya's name `[possibly Wanjiko]`, Alexandra's exact surname or relation in South Africa, `Great Chisel`, and some ship and place spellings from the final departure section.
+- Unresolved details that should not be hard-locked yet: `Cicenda`, aya's name `[possibly Wanjiko]`, Alexandra's exact surname or relation in South Africa, `Great Chisel`, and some ship and place spellings from the final departure section.
 - This file should become the base for the later English story-faithful and story-optimized versions.
+- Mother's review corrections applied: Jacob (not Jakob), Cicenda (not Sianda), Bumble (not Bambo), handgun (not pistol), Anthony added, diaries noted, theatre at kindergarten school.

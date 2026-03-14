@@ -8,7 +8,7 @@
 
 ## Draft
 
-I was born in Kenya in 1954, but if I am going to explain my childhood properly, I have to begin with my parents, and especially with my father, Jakob Prebensen from Risor in southern Norway.
+I was born in Kenya in 1954, but if I am going to explain my childhood properly, I have to begin with my parents, and especially with my father, Jacob Prebensen from Risor in southern Norway.
 
 He was born in 1916 and grew up in a family that had once had money and standing in the old shipping era. Later things went less well, and the family moved to Gjerstad, where my grandfather Fritz bought a farm called Vik Gard with money from an inheritance his wife had received from Denmark. That matters because Gjerstad runs like a thread through the whole story. It was both where my father came from and the place he was trying to escape.
 
@@ -18,7 +18,7 @@ So he was a double figure in a way. He was anxious, but he was also handsome, va
 
 After the war an opening appeared. His cousin Vesla Koren had gone out to Kenya with her husband, Dan Koren. Kenya was then a British colony, and the British had long wanted Europeans to come out, buy land, and run farms. There was a whole settler society there. Through Vesla and Dan, my father got the idea that he too could go. I think it was both the pull of Kenya and the need to get away from Gjerstad that decided it for him.
 
-He went out around 1947, in his early thirties. At first he worked for Dan Koren, who kept cattle in the highlands around Nairobi, in a place that appears in the interview as Sianda [spelling still uncertain]. My father had an agricultural education from Holt, near Tvedestrand, so he did not arrive empty-handed. But it was not just professional opportunity that attracted him. He entered a colonial world of clubs, parties, social life, and a sense of possibility. It must have suited him very well for a time.
+He went out around 1947, in his early thirties. At first he worked for Dan Koren, who kept cattle in the highlands around Nairobi, in a place that appears in the interview as Cicenda [spelling still uncertain]. My father had an agricultural education from Holt, near Tvedestrand, so he did not arrive empty-handed. But it was not just professional opportunity that attracted him. He entered a colonial world of clubs, parties, social life, and a sense of possibility. It must have suited him very well for a time.
 
 My mother, Rosemary Durant, came from an entirely different background. She was born in 1926 into a British military family. Her father was a career officer who served much of the time in India. Her mother, Kathleen, was Scottish, wholly or partly, and the unusual thing was that her parents divorced while Rosemary was still very young. One simply did not do that in those days. The result was that she grew up as a child with no real home to go back to.
 
@@ -26,15 +26,15 @@ She was sent to school in Wales when she was quite young and spent almost all of
 
 During the war she joined the Wrens, the Women's Royal Naval Service. She almost never properly spoke about what she had done. She answered cryptically, as if she had only been one small part of a system. Only after she died did we discover that she had been part of the Enigma work, and that her name now stands at Bletchley Park. After the war she worked, among other things, for the British Colour Council. She had a gift for colour, she could draw well, and she had a strong aesthetic sense. That stayed with her all her life.
 
-After the war her father remarried, to Cynthia. They had a son, Christopher, in India in 1945, and shortly afterwards they moved to Kenya. In 1952 Cynthia wrote to Rosemary and invited her out on holiday. That is how she, too, came to Kenya.
+After the war her father remarried, to Cynthia. They had a son, Christopher, in India in 1945, and shortly afterwards they moved to Kenya. There they had another son, Anthony, in 1947. Anthony was Rosemary's half-brother. In 1952 Cynthia wrote to Rosemary and invited her out on holiday. That is how she, too, came to Kenya.
 
 And then she met my father.
 
-There are two versions of that story, and both belong in it because they say something about the family. One is the earthy version, and to my mind the more likely one: Cynthia was driving around farms taking milk samples, and Rosemary came into a cowshed with her just as Jakob was standing there with his arm deep inside a cow. The other was my father's preferred version: that they met at a resort in Malindi, and that he plunged straight into her heart. That one is almost certainly embellished, but he liked it. It says something about him that he wanted the love story told in its most cinematic form.
+There are two versions of that story, and both belong in it because they say something about the family. One is the earthy version, and to my mind the more likely one: Cynthia was driving around farms taking milk samples, and Rosemary came into a cowshed with her just as Jacob was standing there with his arm deep inside a cow. The other was my father's preferred version: that they met at a resort in Malindi, and that he plunged straight into her heart. That one is almost certainly embellished, but he liked it. It says something about him that he wanted the love story told in its most cinematic form.
 
 In any case it all happened quickly. After three or four months they were married. My father jokingly called himself "her last chance in Africa", which irritated her a little. But I do think they had a good relationship, despite his many difficulties. She very quickly took hold of the practical side of his life. She was utterly shocked to discover that before she arrived he might buy a new shirt rather than wash the old one. At that point it became clear to her that if this was going to work, she would have to take charge of quite a lot. In that respect, they were probably a good match.
 
-By the time I was born, in December 1954, the state of emergency during Mau Mau still formed part of the background in Kenya. I cannot say very much about the very first years before my own memories begin to settle, but the world I grew into was Rubislaw, near Thika, outside Nairobi, in a high coffee district.
+By the time I was born, in December 1954, and later on my sister Wenche in January 1957, the state of emergency during Mau Mau still formed part of the background in Kenya. I cannot say very much about the very first years before my own memories begin to settle, but the world I grew into was Rubislaw, near Thika, outside Nairobi, in a high coffee district.
 
 The first thing I remember about that place is how isolated it felt. The farm was remote. It was like a little world of its own. The married couple lived there with their children, and around them were all the employees and the whole system that kept the place running. At Rubislaw there was also a village of its own, where the people who worked on the plantation lived in grass and mud houses that later reminded me of the illustrations in old Norwegian children's books. There was cooking over open fires, life lived outdoors, and women working with the coffee crop and the picking.
 
@@ -48,13 +48,13 @@ My father had his office down by the coffee plant, and that was where he kept th
 
 The Sutcliffe family, who owned the plantation, had more money and a higher position than we did. When we were going to visit them, we were dressed up in the finest dresses my mother sewed for us on her Singer machine. We were told not to get dirty and to behave ourselves. There was a clear hierarchy even within settler society.
 
-My father always wore khaki and carried a pistol. The full outfit. There was a permanent state of readiness around us. It showed itself in large things and small things, and to a child it simply slid into daily life. We had a guard dog. We had barbed wire. We had weapons. We had stories of danger and attack circulating around us. And then there were the snakes.
+My father always wore khaki and carried a handgun. The full outfit. There was a permanent state of readiness around us. It showed itself in large things and small things, and to a child it simply slid into daily life. We had a guard dog. We had barbed wire. We had weapons. We had stories of danger and attack circulating around us. And then there were the snakes.
 
 Snakes were a recurring subject. I remember the story of the puff adder in the house: how my father suddenly shouted, "Rosemary, get the children out," how everyone had to go outside, how he killed it and laid it on the cement outside the kitchen, and how the cat came over and made it hiss again because it was not quite dead after all. I also remember the story of the mamba among our toys on the veranda. Whether everything was always exactly as it was later told, I cannot say. But the feeling of danger was real. That was why we were never left alone.
 
 We always had an aya to watch us when we were outside, and we spoke a great deal of Swahili with her and with the others around us. My father's Swahili was probably not elegant, but he used it all the time. My mother could speak it too. We lived inside a multilingual daily life long before I understood there was anything remarkable about that.
 
-I remember the cook, Charago, in his white cook's hat and green apron, and the kitchen boy, Katschutta, who did all sorts of things. I remember that the diaries said Charago could be good with children and a good cook, but also often drunk. Much of this material is like that: neither pure idyll nor pure condemnation, but full of small observations about people, weaknesses, and place.
+I remember the cook, Charago, in his white cook's hat and green apron, and the kitchen boy, Katschutta, who did all sorts of things. I remember that the diaries said Charago could be good with children and a good cook, but also often drunk. These diaries were my mother's: she kept one on a daily basis her whole life. Much of this material is like that: neither pure idyll nor pure condemnation, but full of small observations about people, weaknesses, and place.
 
 We had chickens and rabbits, and we ate them too. My father thought we might as well watch the chickens being beheaded. We had two Alsatians, Zipp and Elsa, and Elsa was the guard dog, not one we were meant to bond with in the same way. We had cats, and we had a garden. My mother loved flowers and gardening, and her garden was beautiful. That too says something about colonial life: intense security and watchfulness on one side, and a strong need for beauty, order, and aesthetic form on the other.
 
@@ -64,7 +64,7 @@ My mother drove fast everywhere. She was not a slow or cautious woman. She carri
 
 The club in Thika was the meeting place for Norwegians, Danes, Britons, and other Europeans. If our parents went to a party there, Wenche and I might be laid in the back seat in our pyjamas, while a watchman came from time to time to look in on us and make sure everything was all right. I was not afraid. That was simply how things were. But today it sounds absurd.
 
-We also spent a great deal of time in Nairobi with Oliver and Cynthia, who lived in Spring Valley, a rather grand residential area with large houses. We always looked forward to going there. We celebrated Christmas Day there, while Christmas Eve was kept in the Norwegian way at home on the farm because that mattered to my father. At Oliver and Cynthia's they had a Christmas tree with real candles, and one year the tree caught fire. I also remember their cat, Bambo, who used to lie by my feet when we were put to bed there at night.
+We also spent a great deal of time in Nairobi with Oliver and Cynthia, who lived in Spring Valley, a rather grand residential area with large houses. We always looked forward to going there. We celebrated Christmas Day there, while Christmas Eve was kept in the Norwegian way at home on the farm because that mattered to my father. At Oliver and Cynthia's they had a Christmas tree with real candles, and one year the tree caught fire. I also remember their cat, Bumble, who used to lie by my feet when we were put to bed there at night.
 
 School was colonial in its own way too. I started at the age of four, first in kindergarten and then at a school for white or European children. I liked that school better, but the first teacher, Miss Foiret, was strict and brutal. She slapped us and rapped our fingers. We learned, yes, but much of it was driven in through fear. When the political situation began to change and schools were being closed or opened to Africans, I was moved back for a period to the kindergarten, which had itself been moved up to the club. That says everything about the system. School, club, and settler life all merged into each other.
 
@@ -72,7 +72,7 @@ One of my strangest memories is the first time I understood that my father reall
 
 Birthdays could mean a trip to Nairobi National Park or to the snake park, "the birthday treat." In the national park we saw wildebeest, zebra, and baboons that jumped onto the roof of the car while we sat with the windows shut, looking up at them. Once a monkey leapt in and stole food from our picnic. At the club there were cakes and jelly, and I have never liked jelly since because I was made to eat it.
 
-We went to the Blue Post Hotel in Thika to swim, and that was where I learned to swim. We were fascinated by Sikhs bathing and taking off their turbans. My mother shopped with tailors and shopkeepers in town, many of them Indian, and did what she called "the big shop." At school we had Sports Day, very British, with flags and formations. In the evenings my mother made little theatre performances with us, sewing costumes and hand-painting programmes, though she could also be quite sharp if she was interrupted. She played the football pools, went to horse races in fine dresses and hats, and could be irritated if the most beautiful horse won when she had not bet on it. That whole world had both lightness and edge in it.
+We went to the Blue Post Hotel in Thika to swim, and that was where I learned to swim. We were fascinated by Sikhs bathing and taking off their turbans. My mother shopped with tailors and shopkeepers in town, many of them Indian, and did what she called "the big shop." At school we had Sports Day, very British, with flags and formations. At the kindergarten school we had little theatre performances where our mother sewed the costumes and hand-painted the programmes, though she could also be quite sharp if she was interrupted. She played the football pools, went to horse races in fine dresses and hats, and could be irritated if the most beautiful horse won when she had not bet on it. That whole world had both lightness and edge in it.
 
 We also went to Malindi on the coast. I remember the propeller flight being so bumpy that we were sick as dogs. I remember the bungalow on the beach, the pink crabs running sideways, the swimming, the sun, the feeling of being on holiday. Those kinds of memories matter because they show that childhood was not only political structure and later reflection. It was also the body: light, animals, laughter, nausea, heat, and sand.
 
@@ -84,14 +84,17 @@ After that the packing began. Large wooden crates were filled. We were to travel
 
 We took the night train to Mombasa and boarded the Kenya Castle. Later we changed to the Pretoria Castle. We called at Zanzibar, Durban, Port Elizabeth, and Cape Town. I remember Table Mountain. I remember the ship's swimming pool, where the sea made waves in the water. I remember Wenche's rubber ring. I remember how proud my mother was to eat at the Captain's Table. But the whole journey was overshadowed by one fact: my father was very ill.
 
-In England he was sent on for treatment, while we stayed behind with relatives before later travelling on to Norway and Jevnaker. After that came Gjerstad, the shock of the cold, and then Risor and the language and an entirely different life. But that is really another story.
+In England he was sent on for treatment, while we stayed behind with relatives before later travelling on to Norway and Jevnaker, where Vesla and Dan Koren were then living. After that came Gjerstad, the shock of the cold, and then Risor and the language and an entirely different life. But that is really another story.
 
-What remains with me when I look back on my childhood in Kenya is not only the large historical lines, though they are there all the time. It is also its texture: coffee beans in the sun, khaki and the pistol, chameleons at the roadside, the strict teacher, Bambo the cat, the pink crabs in Malindi, the fast car, the open village, the garden, the language, fear and freedom mixed together.
+What remains with me when I look back on my childhood in Kenya is not only the large historical lines, though they are there all the time. It is also its texture: coffee beans in the sun, khaki and the handgun, chameleons at the roadside, the strict teacher, Bumble the cat, the pink crabs in Malindi, the fast car, the open village, the garden, the language, fear and freedom mixed together.
 
 It was a childhood inside a colonial system, and it cannot be told honestly without saying that plainly. But it was also my childhood. It was full of sights, smells, people, strange details, love, unease, laughter, and things whose full meaning I only understood much later.
+
+It is to be said that Jacob recovered gradually, and the couple had a full and pleasant life in Risor, where they both died.
 
 ## Editorial notes
 
 - This is the story-faithful layer, not the optimized literary layer.
 - It should remain visibly closer to her storytelling movement than the later optimized version.
-- Unresolved details that should not be hard-locked in later versions: `Sianda`, the aya's name `[possibly Wanjiko]`, and Alexandra's exact surname or relation in South Africa.
+- Unresolved details: the aya's name `[possibly Wanjiko]`, and Alexandra's exact surname or relation in South Africa.
+- Mother's review corrections applied: Jacob (not Jakob), Cicenda (not Sianda), Bumble (not Bambo), handgun (not pistol), Anthony added, Wenche's birth date added, diaries noted, theatre at kindergarten school, Koren family at Jevnaker, closing paragraph added.
