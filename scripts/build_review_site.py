@@ -34,6 +34,12 @@ PAGES = [
     },
 ]
 
+SITE_LINKS = [
+    {"href": "index.html", "label": "Story"},
+    {"href": "history.html", "label": "Historical Context"},
+    {"href": "integrated.html", "label": "The Full Story"},
+]
+
 
 def inline_markup(text: str) -> str:
     escaped = html.escape(text, quote=False)
@@ -115,7 +121,12 @@ def render_markdown(markdown: str) -> str:
 
 
 def page_shell(title: str, body: str, description: str, active_slug: str) -> str:
+    site_nav_html = "".join(
+        f"<a class=\"nav-link\" href=\"{link['href']}\">{html.escape(link['label'])}</a>"
+        for link in SITE_LINKS
+    )
     nav_items = []
+    nav_items.append("<a class=\"nav-link\" href=\"index.html\">Overview</a>")
     for page in PAGES:
         class_name = "nav-link active" if page["slug"] == active_slug else "nav-link"
         nav_items.append(
@@ -136,8 +147,9 @@ def page_shell(title: str, body: str, description: str, active_slug: str) -> str
     <div class="page-shell">
       <header class="site-header">
         <a class="brand" href="index.html">Kenya Story Review</a>
-        <nav class="site-nav">{nav_html}</nav>
+        <nav class="site-nav">{site_nav_html}</nav>
       </header>
+      <nav class="sub-nav">{nav_html}</nav>
       <main class="content-shell">
         <aside class="review-note">
           <p class="eyebrow">Review version</p>
@@ -181,6 +193,14 @@ def build_index() -> None:
   </head>
   <body>
     <div class="page-shell">
+      <header class="site-header">
+        <a class="brand" href="index.html">Kenya Story</a>
+        <nav class="site-nav">
+          <a class="nav-link active" href="index.html">Story</a>
+          <a class="nav-link" href="history.html">Historical Context</a>
+          <a class="nav-link" href="integrated.html">The Full Story</a>
+        </nav>
+      </header>
       <header class="hero">
         <p class="eyebrow">Family review site</p>
         <h1>Mamma's Kenya Story</h1>
@@ -371,6 +391,14 @@ a {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+}
+
+.sub-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin: 0 0 24px;
+  padding: 0 4px;
 }
 
 .nav-link {
