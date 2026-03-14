@@ -151,6 +151,49 @@
   margin-bottom: 0;
 }
 
+/* Photo figures */
+.chapter-photo {
+  margin: 1.6em 0;
+  padding: 0;
+}
+
+.chapter-photo img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.12);
+}
+
+.chapter-photo figcaption {
+  font-family: "Avenir Next", "Gill Sans", Calibri, sans-serif;
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin-top: 8px;
+  max-width: 520px;
+  line-height: 1.5;
+}
+
+.photo-pair {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 1.6em 0;
+}
+
+.photo-pair .chapter-photo {
+  margin: 0;
+  flex: 1;
+  min-width: 200px;
+}
+
+.photo-pair .chapter-photo img {
+  max-width: 100%;
+}
+
+.photo-pair .chapter-photo figcaption {
+  max-width: 100%;
+}
+
 /* Sources section */
 .history-chapter ul {
   max-width: 68ch;
