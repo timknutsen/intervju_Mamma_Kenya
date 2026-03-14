@@ -36,6 +36,11 @@
   gap: 14px;
 }
 
+.hero-visuals {
+  display: grid;
+  gap: 18px;
+}
+
 .meta-card {
   padding: 18px 20px;
   border-radius: 20px;
@@ -156,6 +161,40 @@
   margin-top: 22px;
 }
 
+.map-card {
+  margin-top: 22px;
+  padding: 18px 18px 14px;
+  background: rgba(54, 88, 79, 0.04);
+  border: 1px solid rgba(54, 88, 79, 0.1);
+  border-radius: 20px;
+}
+
+.map-frame {
+  width: 100%;
+  background: linear-gradient(180deg, #edf3ee 0%, #dfeadf 100%);
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid rgba(54, 88, 79, 0.14);
+}
+
+.map-frame svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.map-card figcaption {
+  margin-top: 10px;
+  font-family: "Avenir Next", "Gill Sans", Calibri, sans-serif;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: var(--muted);
+}
+
+.source-link {
+  color: var(--accent);
+}
+
 .section-figure img,
 .photo-pair img {
   width: 100%;
@@ -183,6 +222,14 @@
   padding-top: 16px;
   border-top: 1px solid var(--line);
   color: var(--muted);
+}
+
+.source-list {
+  padding-left: 1.2em;
+}
+
+.source-list li {
+  margin-bottom: 0.5em;
 }
 
 @media (max-width: 900px) {
